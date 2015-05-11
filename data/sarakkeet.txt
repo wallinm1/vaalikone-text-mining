@@ -1,0 +1,47 @@
+PERUSTIEDOT
+vaalipiri muodossa 08 Kaakkois-Suomen vaalipiiri
+id numerona
+sukunimi merkkijonona
+etunimi merkkijonona
+puolue merkkijonona
+ikä numerona
+sukupuoli merkkinä (F tai M)
+Toimin tällä hetkellä kansanedustajana (binääri muuttuja 0 tai 1)
+vastattu muodossa 7.3.2015 19:35 (päivämäärä)
+sitoutumaton binääri muuttuja (1 tai 0)
+kotikunta merkkijonona
+
+VAPAITA TEKSTIKENTTIÄ, YDINSANOMA
+Miksi juuri sinut kannattaisi valita eduskuntaan?<sub>(enintään 200 merkkiä)</sub>
+Mitä asioita haluat edistää tai ajaa tulevalla vaalikaudella
+Vaalilupaus 1
+Vaalilupaus 2
+Vaalilupaus 3
+
+DEMOGRAFISET TIEDOT
+Äidinkieli merkkijonona muodossa suomi
+Kotisivun osoite url-muodossa merkkijonona
+Facebook-profiilin osoite url-muodossa merkkijonona
+Twitter-profiilin osoite url-muodossa merkkijonona
+Lapsia merkkijonona muodossa kyllä/ei
+Perheeseeni kuuluu vapaahkossa muodossa mies ja aikuiset lapset
+Vapaa-ajalla sydäntäni lähinnä on muodossa liikunta/penkkiurheilu
+Työnantaja merkkijonona muodossa julkinen/yksityinen/ei työelämässä
+Ammattiasema merkkijonona muodossa asiantuntijatehtävä/työntekijä
+Ammatti merkkijonona vapaahkossa muodossa biologian ja maantiedon lehtori
+Koulutus merkkijonona muodossa korkeakoulututkinto/ammattitutkinto
+Kielitaito merkkijonona muodossa suomi |ruotsi |englanti
+Uskonnollinen yhteisö muodossa evankelis-luterilainen kirkko/ei kuulu kirkkoon tai muuhun uskonnolliseen yhteisöön
+Poliittisen puolueen jäsen merkkijonona muodossa kyllä/ei
+Poliittinen kokemus merkkijonona muodossa toiminta puolueen paikallistasolla tai muissa.../kunnan- tai kaupunginvaltuusto
+Käytän vaaleihin rahaa merkkijonona ordinaalimuuttujana muodossa 10 000-20 000 euroa
+Ulkopuolisen rahoituksen osuus merkkijonona ordinaalimuuttujana muodossa 0 %/1-20 %/51-80 %
+Taloudelliset sidonnaisuudet merkkijono muodossa ei ole/Ei ole.
+Vuositulot merkkijono ordinaalimuuttujana muodossa 30 000-50 000 euroa
+Sijoitusten arvo (esim. osakkeet - rahastot) ordinaalimuuttujana muodossa ei sijoituksia/0-10 000 euroa
+
+VAALIKONEKYSYMYKSET
+Vaalikonekysymyksissä on seuraavanlainen logiikka:
+Ensin kysytään samaa mieltä/täysin eri mieltä tyylinen kysymys, sen jälkeen voi perustella vastausta kommentissa, eli esimerkiksi:
+127|Suomessa on liian helppo  elää sosiaaliturvan varassa merkkijono ordinaalimuuttujana muodossa jokseenkin samaa mieltä/jokseenkin eri mieltä
+127|kommentti vapaa tekstikommentti

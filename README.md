@@ -1,5 +1,5 @@
 # vaalikone-text-mining
-Tästä Github-repositorysta löytyy Jupyter notebook jossa tutkitaan Ylen vaalikoneen avoimien kysymyksien vastauksia ja tehdään tilastollista analyysiä sen pohjalta. Samalla tarkoituksena on kokeilla Pythonin text mining-ominaisuuksia suomen kielen analysoinnissa. Lisäksi päästään kokeilemaan Githubin uutta Jupyter-notebook-renderingiä.
+Tästä Github-repositorysta löytyy Jupyter notebook jossa tutkitaan Ylen vaalikoneen avoimien kysymyksien vastauksia ja tehdään tilastollista analyysiä sen pohjalta. Samalla tarkoituksena on kokeilla Pythonin text mining-ominaisuuksia suomen kielen analysoinnissa. Lisäksi päästään kokeilemaan Githubin uutta Jupyter-notebook-renderingiä. Notebookia pääsee tarkastelemaan suoraan [Githubista](https://github.com/wallinm1/vaalikone-text-mining/blob/master/Ylen_Vaalikone_2015.ipynb) käsin.
 
 ## Data
 Analyysin lähdedatana käytetään Ylen avoimeksi tekemää [Vaalikone-dataa](http://yle.fi/uutiset/yle_julkaisee_vaalikoneen_vastaukset_avoimena_datana/7869597).  Tästä datasta olen käyttänyt versiota joka löytyy [avoindata.fi-sivuilta](https://www.avoindata.fi/data/fi/dataset/eduskuntavaalien-2015-ylen-vaalikoneen-vastaukset-ja-ehdokkaiden-taustatiedot).
